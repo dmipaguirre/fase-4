@@ -46,7 +46,7 @@
   justify-content: center;
   align-items: center;
   height: 500px;
-  background-image: url(assets/network.jpg);
+  background-image: url(./assets/network.jpg);
   background-position: center;
   background-size: cover;
   box-sizing: border-box;
